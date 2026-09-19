@@ -16,9 +16,8 @@ Grounding tools
 Rights and reporting information
 Accessibility support
 Read-aloud functionality
-My Role
 
-Designed and developed the prototype as part of my MFA in Design and Technology at Parsons School of Design.
+My Role: Designed and developed the prototype as part of my MFA in Design and Technology at Parsons School of Design.
 
 Prototype
 
